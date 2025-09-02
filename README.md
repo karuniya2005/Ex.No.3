@@ -1,44 +1,85 @@
-# Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
+# Ex.No.3-Climate Change Awareness Campaign
 
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### Aim: To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts. Case study 1 with Straightforward Prompts, Tabular Format Prompting and Preceding Question Prompting  
-
-### Explanation - Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
-Procedure:
-1.	Define the Scenario and Use Case:
-Scenario:
-The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. The goal is to streamline the production process, minimize downtime, and enhance energy efficiency.
-Target Audience:
-Manufacturing companies, specifically in sectors like automotive, electronics, and food processing, where automation can significantly improve productivity.
+### DATE: 03.09.2025                                                                     
+### REGISTER NUMBER : 212223240068
 
 
-Main Objectives:
+## 🎯 Aim
 
-•	Improve production efficiency by 30%.
-•	Minimize machinery downtime with predictive maintenance.
-•	Enable real-time monitoring and remote control of manufacturing systems.
-•	Reduce energy consumption by optimizing processes.
- 
-2.	Identify Prompt Patterns for Each Design Aspect:
-Idea Generation Prompts:
-
-•	Prompt: “What features can be incorporated into the automation system to optimize production and reduce downtime?” Generated Ideas:
-•	Sensors for real-time monitoring of equipment performance.
-•	Predictive maintenance alerts to anticipate equipment failures.
-•	Energy usage optimization by automating the switching of machines on/off based on demand.
-•	Cloud-based dashboards for remote monitoring and control of machinery.
-
-Persona and Context Prompts:
-
-•	Prompt: “What should the user interface and control system convey to the operators and managers?” Generated Context:
-•	The user interface should be intuitive and provide real-time data on machine performance, energy usage, and alerts.
-•	The system should convey reliability and ease of use, with minimal training required for operators.
-
-### Conclusion
-Result: The various types of Prompts are executed successfully with generated the report.
+The aim is to design a comprehensive and engaging climate change awareness campaign that effectively educates the public, inspires action, and encourages sustainable behaviors.  
+This campaign will utilize various communication channels and be tailored to specific audience types to maximize its impact.  
+We will use a **scenario-based approach** and **preceding question prompting** to structure the campaign plan, ensuring it's both robust and adaptable.
 
 
+
+## 📝 Procedure: Scenario-Based Campaign Development
+
+### 1️⃣ Define the Scenario and Use Case
+
+**Scenario:**  
+A non-profit environmental organization wants to launch a nationwide campaign to increase public understanding of climate change, its local impacts, and actionable steps individuals can take.  
+The campaign needs to resonate with **young adults, families, and business owners**, to foster a sense of collective responsibility.  
+It should not only inform but also **empower people** to act.
+
+<img width="512" height="512" alt="unnamed" src="https://github.com/user-attachments/assets/1af9fb80-547e-4932-af3b-b2b5b60e8d14" />
+
+**Target Audience:**
+- **Young Adults (18-25):** Digitally native, socially engaged, early adopters.  
+- **Families with Children (30-50):** Concerned about safety, financial savings, future generations.  
+- **Small Business Owners:** Practical solutions for efficiency, cost savings, and reputation.  
+
+**Main Objectives:**
+- 📈 Increase public awareness of local climate impacts by **50% within 1 year**.  
+- 🌱 Encourage a **20% rise in sustainable behaviors** (waste reduction, energy saving, public transport, eco-friendly consumerism).  
+- 📢 Inspire individuals and businesses to **support and advocate climate-friendly policies**.
+
+
+
+### 2️⃣ Identify Prompt Patterns for Campaign Design
+
+Using **Preceding Question Prompting**:
+
+**Q1:**
+> How can we tailor messaging to resonate with each audience while keeping a unifying core message about urgency and possibility of climate action?
+
+
+### Audience-Specific Messaging
+
+#### 👩‍🎓 Young Adults
+- **Content Strategy:** Short-form video (TikTok, Instagram Reels, YouTube Shorts).  
+- **Messaging:** Relatable, empowering, hopeful storytelling (youth activists, innovations).  
+- **Call to Action:** Small impactful steps → “Learn 1 fact,” “Share this post,” “Join online community.”  
+- **Visual Example:** 
+
+  <img width="512" height="512" alt="unnamed" src="https://github.com/user-attachments/assets/5a7a518b-f164-46ea-877c-23d72246f768" />
+
+
+
+#### 👨‍👩‍👧 Families
+- **Content Strategy:** Animated explainers, DIY eco guides, local events.  
+- **Messaging:** Link climate action to **daily life** → financial savings, health, safer future.  
+- **Platforms:** Facebook, Pinterest, community blogs/newsletters.  
+- **Imagery:** Warm, family-friendly visuals of sustainable activities.  
+- **Visual Example:** 
+  
+<img width="512" height="512" alt="unnamed" src="https://github.com/user-attachments/assets/b0e62357-48e0-4650-9a94-2de54e7a08a7" />
+
+
+## 📊 Result
+
+The campaign is projected to:
+- ✅ Achieve **50% increase in awareness levels** in the first year.  
+- ✅ Drive **20% adoption of sustainable practices** across target audiences.  
+- ✅ Boost community engagement, local participation, and digital advocacy.  
+
+
+## ✅ Conclusion
+
+The campaign plan delivers a **structured, scalable, and impactful strategy** for climate awareness.  
+By integrating **scenario-based design**, **preceding question prompting**, and **audience-tailored messaging**, it ensures effectiveness and adaptability.  
+
+The campaign fosters **collective responsibility** by motivating individuals, families, and businesses to actively participate in climate solutions.  
+It serves as a roadmap for transforming awareness into **meaningful climate action**.
 
 
 # Result: Thus the Prompts were exected succcessfully.
